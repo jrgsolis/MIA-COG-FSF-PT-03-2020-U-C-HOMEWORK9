@@ -1,0 +1,26 @@
+{
+  "name": "mia-cog-fsf-pt-03-2020-u-c-homework9",
+  "version": "0.0.1",
+  "description": "Readme Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK9.git"
+  },
+  "keywords": [
+    "homework9"
+  ],
+  "author": "Jorge Solis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK9/issues"
+  },
+  "homepage": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK9#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^7.1.0"
+  }
+}
