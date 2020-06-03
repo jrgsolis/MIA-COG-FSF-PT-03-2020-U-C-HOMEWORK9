@@ -1,14 +1,14 @@
 
-  # Title Readme Genesdf
-  # Badge Readme Generator
-  # Description sdfsdf
-  # Contents sdfsdf
-  # Installation sdfsdf
-  # Usage sdfsdf
-  # License sdfsdf
-  # Contributing dfsdf
-  # Tests sdfsdf
-  # Questions sdfsdf
+  # Title Readme Generator Node
+  # Badge Readme Generator UM Bootcamp
+  # Description Readme Generator NODE Homework
+  # Contents Simple Node implementation
+  # Installation npm init, nmp install file-system, npm i inquirer
+  # Usage node index.js
+  # License ISC
+  # Contributing None
+  # Tests node index.js
+  # Questions please write jrgsolis@gmail.com
 
 
   
